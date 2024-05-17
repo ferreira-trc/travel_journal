@@ -1,0 +1,9 @@
+.post {
+    border: 10px;
+    border-color: black;
+}
+
+.headerSectio {
+    display: flex;
+    align-content: center;    
+}

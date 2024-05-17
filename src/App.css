@@ -1,3 +1,36 @@
+/*.mainDiv{
+  width: 5rem;
+  height: 7rem;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;  
+}
+
+.cardDiv{  
+  height: 80%;
+}
+
+.footerDiv {
+  height: 20%;
+}
+
+.butao1 {
+  background-color: #61dafb;
+}
+
+.butao2 {
+  background-color: green;
+}
+
+.butao3 {
+  background-color: red;
+}*/
+
+:root {
+  --header-font-family: 'Roboto', 'sams-serif';
+}
+
+
 .App {
   text-align: center;
 }
